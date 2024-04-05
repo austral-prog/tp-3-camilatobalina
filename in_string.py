@@ -1,5 +1,18 @@
 def check_vowels():
     # Código a implementar utilizando input.
+    input("Matias")
+    print(f"Contiene a: {"a" in "Matias"}")
+    print(f"Contiene e: {"e" in "Matias"}")
+    print(f"Contiene i: {"i" in "Matias"}")
+    print(f"Contiene o: {"o" in "Matias"}")
+    print(f"Contiene u: {"u" in "Matias"}")
+    input("Augusto")
+    print(f"Contiene a: {"a" in "Augusto".lower()}")
+    print(f"Contiene e: {"e" in "Augusto"}")
+    print(f"Contiene i: {"i" in "Augusto"}")
+    print(f"Contiene o: {"o" in "Augusto"}")
+    print(f"Contiene u: {"u" in "Augusto"}")
+
 
 
 # Para verificar este ejercicio ejecutar el comando
